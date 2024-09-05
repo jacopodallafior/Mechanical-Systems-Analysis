@@ -5,7 +5,7 @@ This repository contains a collection of my personal projects for mechanical sys
 ## Projects Contents Overview
 
 ### 1. Project 1 - Parallel Manipulator Kinematic Analysis
-- **Project File:** `jacopo.dallafior.218931.homework1.nb`
+- **Project File:** `project1.nb`
 - **Description:** This project focuses on the kinematic analysis of a parallel manipulator. The project covers both forward and inverse kinematics, where the position and orientation of the end-effector are determined and analyzed based on the known or desired actuator displacements. It also includes visualization of the manipulator’s movements.
 - **Key Concepts:**
   - **Forward Kinematics:** The project implements a procedure to determine the position and orientation (x, y, and θ) of the end-effector (point E) given the known values of the actuator positions \( s_1, s_2, s_3 \). The methodology is based on adaptations of quadrilateral and pentagonal linkage studies.
@@ -43,4 +43,4 @@ This repository contains a collection of my personal projects for mechanical sys
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jacopodallafior/mechanical-systems-projects.git
+   git clone https://github.com/jacopodallafior/Mechanical-Systems-Analysis.git
